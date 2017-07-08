@@ -1,4 +1,7 @@
-print("test")
 
+def printTest():
+    print("test")
+    print("this is another text")
 
-print("this is another text")
+    
+printTest()
